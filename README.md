@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Home Lab — Detection & Monitoring
+# 🛡️ CVE-2007-2447 Exploitation & SIEM Detection Lab (Wazuh + MITRE ATT&CK) 
 
 > **B.Tech Project (BTP) | IIIT Pune**
 > Based on: *"Designing and Implementing an Effective Cybersecurity Home Lab for Detection and Monitoring"* — ICCCNT 2023, IIT Delhi
